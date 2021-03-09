@@ -8,3 +8,6 @@ Generating html graph files for stocks
 ## Output:
 * generates html file for each stock in the list.
 * each html file contanis the graph of the stock.
+
+the full results can be found here:
+https://github.com/bustrama/OTC-charts
